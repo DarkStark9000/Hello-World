@@ -1,5 +1,5 @@
 # hello-world
-The First Repo in here, A Big Step (maybe) for the Future.
+The First Repo in here, A SMALLStep (maybe) for the Future.
 
 Hello, I am Debarshi Das, from Kolkata, India.
 I am an undergrad student at Vellore  Institue of Technology, Chennai Campus.
